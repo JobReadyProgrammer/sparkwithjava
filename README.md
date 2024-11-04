@@ -2,7 +2,7 @@
 
 Learn how to slice and dice data using the next generation big data platform - Apache Spark!
 
-<img title="JRP The Ultimate Apache Spark with Java Course New Banner" alt="JRP The Ultimate Apache Spark with Java Course New Banner" src="">
+<img title="JRP The Ultimate Apache Spark with Java Course New Banner" alt="JRP The Ultimate Apache Spark with Java Course New Banner" src="https://raw.githubusercontent.com/JobReadyProgrammer/sparkwithjava/refs/heads/master/JRP%20The%20Ultimate%20Apache%20Spark%20with%20Java%20Course%20New%20Banner.jpg">
 
 This GitHub Repository will include the Source Code for the ["The Ultimate Apache Spark with Java Course - Hands On"](https://www.udemy.com/course/the-ultimate-apache-spark-with-java-course-hands-on/)
 
